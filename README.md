@@ -1,2 +1,2 @@
 # Bar-QR-code-scanners
-I will have a QR code with an amount and use QR scanner to scan and get the amount from QR code.
+Ramya RadhaKrishnaKumar, Vinokkumar Uthayakumar and Sushant Sharma are building a project called E-money transfer. In this project we will be creating a device, which will operate using sensors such as QR code scanner, Finger printer reader, Webcam and Bluetooth. Qr code will be send using bluetooth and it will be carrying some amount of money to a person and figner scanner will be used to unlock the amount and allow us to depoist into the banking account. We are going to use Raspberry pi 3 to connect with sesnors and come up with a device which can transfer money and make tranaction electronically. 
