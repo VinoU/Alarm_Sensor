@@ -2,7 +2,7 @@
 tagline: Website with GitHub Pages
 description: Simple website with GitHub Pages
 layout: page
-title: simple site
+title: Project site
 ---
 
 Example Blog.
