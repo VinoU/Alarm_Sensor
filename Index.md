@@ -1,6 +1,6 @@
 ---
 tagline: Website with GitHub Pages
-description: Simple website with GitHub Pages
+description: My blog for Project 
 layout: page
 title: Project site
 ---
