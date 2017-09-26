@@ -12,7 +12,7 @@ title: Project - Bar-QR-code-Scanners
 ### September 20, 2017
 
 I have Created [project schedule Report](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Vino%20Uthayakumar_Project%20Schedule.mpp).  
-I have also Created [PDF Version of Schedule](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Vino%20Uthayakumar_Project%20Schedule.pdf)
+###I have also Created [PDF Version of Schedule](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Vino%20Uthayakumar_Project%20Schedule.pdf)
 
 ### September 13, 2017
 
