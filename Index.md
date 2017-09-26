@@ -1,8 +1,8 @@
 ---
 tagline: Website with GitHub Pages
-description: Simple website with GitHub Pages
+description:This is the Blog for My Project
 layout: page
-title: simple site
+title: Project - Bar-QR-code-Scanners
 ---
 
 -------------
