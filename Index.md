@@ -18,7 +18,7 @@ I have Created [project schedule](https://github.com/VinoU/Bar-QR-code-scanners/
 
 ### September 13, 2017
 
-Created [proposal](https://github.com/six0four/StudentSenseHat/blob/master/documentation/ProposalContentStudentNameRev02.pdf).
+ I haveCreated [proposal](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/vino_%20proposal.xlsx).
 
 ### September 6, 2017
 
