@@ -5,7 +5,6 @@ layout: page
 title: simple site
 ---
 
-Example Blog.
 -------------
 
  
@@ -21,7 +20,7 @@ Created [proposal](https://github.com/six0four/StudentSenseHat/blob/master/docum
 
 ### September 6, 2017
 
-Created [repository](https://github.com/six0four/StudentSenseHat). Also generated a quiz.
+Created [repository](https://github.com/VinoU/Bar-QR-code-scanners.git). Also generated a quiz.
 
 ### August 30, 2017
 
