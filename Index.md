@@ -1,17 +1,19 @@
 ---
 tagline: Website with GitHub Pages
-description:This is the Blog for My Project
+description: Simple website with GitHub Pages
 layout: page
-title: Project - Bar-QR-code-Scanners
+title: simple site
 ---
 
+Example Blog.
 -------------
 
  
 
 ### September 20, 2017
 
-I have Created [project schedule Report](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Vino%20Uthayakumar_Project%20Schedule.mpp).  
+Created [project schedule](https://github.com/six0four/StudentSenseHat/blob/master/documentation/Week3RubricforProjectSchedule.xml).  
+![Image of Schedule](https://raw.githubusercontent.com/six0four/StudentSenseHat/master/documentation/Week3RubricforProjectSchedule.jpg)
 
 ### September 13, 2017
 
@@ -19,8 +21,8 @@ Created [proposal](https://github.com/six0four/StudentSenseHat/blob/master/docum
 
 ### September 6, 2017
 
-Created [repository](https://github.com/VinoU/Bar-QR-code-scanners.git). Also generated a quiz.
+Created [repository](https://github.com/six0four/StudentSenseHat). Also generated a quiz.
 
 ### August 30, 2017
 
-Welcome!
+Welcome
