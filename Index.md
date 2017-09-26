@@ -5,7 +5,6 @@ layout: page
 title: Project site
 ---
 
-Example Blog.
 -------------
 
 ### September 27, 2017 
