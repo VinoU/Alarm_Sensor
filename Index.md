@@ -26,4 +26,5 @@ Created [repository](https://github.com/VinoU/Bar-QR-code-scanners). Also genera
 
 ### August 30, 2017
 
-Welcome to my Blog!!!!!  Study Hard !!!! Have Fun!!!
+Welcome to my Blog!!!!!  
+Repository created!
