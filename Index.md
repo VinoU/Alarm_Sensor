@@ -1,9 +1,4 @@
----
-tagline: Website with GitHub Pages
-description: My blog for Project 
-layout: page
-title: Project site
----
+
 CENG 317 - Bar_QR_Code_Scanners
 -------------
 
