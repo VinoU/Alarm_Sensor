@@ -7,7 +7,7 @@ title: Project site
 CENG 317 - Bar_QR_Code_Scanners
 -------------
 
-### September 02, 2017 - Week 3
+### October 02, 2017 - Week 3
 I am working on My Budget Report
 
 ### September 25, 2017 - Week 2
