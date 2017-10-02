@@ -1,7 +1,8 @@
 
 CENG 317 - Bar_QR_Code_Scanners
 -------------
-
+### October 16, 2017 - Week 4
+I started working on Photos 
 ### October 02, 2017 - Week 3
 I have created [my Budget Repor](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Parts%20Budget%20Vino%20Uthayakumar.xlsx).
 
