@@ -1,25 +1,23 @@
 
 CENG 317 - Bar_QR_Code_Scanners
 -------------
-### October 16, 2017 - Week 7
 ### October 16, 2017 - Week 6
-
 ### October 16, 2017 - Week 5
-Proof of Purchases -
-CanaKit Raspberry Pi 3 Complete Starter Kit - 32 GB Edition
-[Invoice](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Parts%20Budget%20Vino%20Uthayakumar%20-%20new.xlsx).
-[Picture]()
-
-SunFounder Relay Module for Arduino 5V DC Trigger by Low
-[Invoice](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Parts%20Budget%20Vino%20Uthayakumar%20-%20new.xlsx).
-[Picture]()
-
-SunFounder Active Buzzer Sensor Module for Arduino and Raspberry Pi
-[Invoice](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Parts%20Budget%20Vino%20Uthayakumar%20-%20new.xlsx).
-[Picture]()
 
 ### October 16, 2017 - Week 4
-Proof of purchase due next week by bringing your parts to class and posting on your build log (be sure to not post any sensitive information)
+Proof of Purchases -
+CanaKit Raspberry Pi 3 Complete Starter Kit - 32 GB Edition
+[Invoice](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Invoices/CanaKit%20Raspberry%20Pi3.pdf).
+[Picture](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Pictures/IMG_3112.JPG)
+
+SunFounder Relay Module for Arduino 5V DC Trigger by Low
+[Invoice](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Invoices/Relay%20Moudle.pdf).
+[Picture](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Pictures/IMG_3105.JPG)
+
+SunFounder Active Buzzer Sensor Module for Arduino and Raspberry Pi
+[Invoice](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Invoices/Buzzer.pdf).
+[Picture](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Pictures/IMG_3096.JPG)
+
 ### October 02, 2017 - Week 3
 I have created [my Budget Report](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Parts%20Budget%20Vino%20Uthayakumar%20-%20new.xlsx).
 
