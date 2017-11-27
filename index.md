@@ -26,15 +26,15 @@ I had hard time putting resister on my PC board but after Vlad watching taching 
 Proof of Purchases -
 CanaKit Raspberry Pi 3 Complete Starter Kit - 32 GB Edition
 [Invoice](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Invoices/CanaKit%20Raspberry%20Pi3.pdf).
-[Picture](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Pictures/IMG_3112.JPG)
+![alt text] (https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Pictures/IMG_3112.JPG)
 
 SunFounder Relay Module for Arduino 5V DC Trigger by Low
 [Invoice](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Invoices/Relay%20Moudle.pdf).
-[Picture](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Pictures/IMG_3105.JPG)
+![alt text] (https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Pictures/IMG_3105.JPG)
 
 SunFounder Active Buzzer Sensor Module for Arduino and Raspberry Pi
 [Invoice](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Invoices/Buzzer.pdf).
-[Picture](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Pictures/IMG_3096.JPG)
+![alt text] (https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Pictures/IMG_3096.JPG)
 
 ### October 02, 2017 - Week 3
 I have created [my Budget Report](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Parts%20Budget%20Vino%20Uthayakumar%20-%20new.xlsx).
