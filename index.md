@@ -1,9 +1,12 @@
 
 CENG 317 - Bar_QR_Code_Scanners
 -------------
-### November 27, 2017 - Week 10
-### November 20, 2017 - Week 9
-### November 13, 2017 - Week 8
+### January 22, 2018 - Week 12
+### January 05, 2018 - Week 11
+### January 08, 2018 - Week 10
+### December 18, 2017 - Week 09
+### December 11, 2017 - Week 8
+### December 04, 2017 - Week 7
 ### November 27, 2017 - Week 6
 I have my PC Board Stored and I made my Board working and now I need to connect to my Pc Board to Rapsiberry Pi
 ### October 23, 2017 - Week 5
