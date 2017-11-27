@@ -11,8 +11,11 @@ I have tested with Vlad.
 
 Working With Raspberry pi3- Amazing Teachnology ever Built :O
 1. I have connected my Pi3 with mouse, keyboard and monitor.
+![alt text](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Raspberry%20Pi3/IMG_3474.JPG)
 2. I have installed the opearting system.
+![alt text](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Raspberry%20Pi3/IMG_3473.JPG)
 3. I am activating the Wifi Setting Having some issues . Hope I fix it 
+![alt text](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Raspberry%20Pi3/IMG_3481.JPG)
 ### October 23, 2017 - Week 5
 PC Board:
 
