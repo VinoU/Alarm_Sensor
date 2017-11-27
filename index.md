@@ -9,7 +9,7 @@ I have my PC Board Stored and I made my Board working and now I need to connect 
 ### October 23, 2017 - Week 5
 PC Board:
 [Pciture](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Pictures/IMG_3089.JPG)
-[Video]()
+[Video](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Pictures/PC%20Board%20video.MOV)
 ### October 16, 2017 - Week 4
 Proof of Purchases -
 CanaKit Raspberry Pi 3 Complete Starter Kit - 32 GB Edition
