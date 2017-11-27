@@ -16,9 +16,9 @@ Working With Raspberry pi3-
 ### October 23, 2017 - Week 5
 PC Board:
 
-I had some issues while I was soldering. and Then I got Helped from Vlad and He was teaching my How to fix if the slodering is not in proper.
+I had some issues while I was soldering. Then I got helped from Vlad and He was teaching my How to fix if the slodering is not in proper.
 
-I had hard time putting Resister on my PC board but after Vlad watching taching some trick then I was able to do it by myself. It was great!!!!
+I had hard time putting resister on my PC board but after Vlad watching taching some trick then I was able to do it by myself. It was great!!!!
 
 [Pciture](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Pictures/IMG_3089.JPG)
 [Video](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Pictures/PC%20Board%20video.MOV)
