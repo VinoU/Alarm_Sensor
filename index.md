@@ -1,16 +1,13 @@
 
 CENG 317 - Bar_QR_Code_Scanners
 -------------
-### January 22, 2018 - Week 12
-### January 05, 2018 - Week 11
-### January 08, 2018 - Week 10
-### December 18, 2017 - Week 09
-### December 11, 2017 - Week 8
+
 ### December 04, 2017 - Week 7
+In Progress
 ### November 27, 2017 - Week 6
-I have my PC Board Stored and I made my Board working and now I need to connect to my Pc Board to Rapsiberry Pi.
+I have my PC Board Soldered and I made my Board working and now I need to connect to my Pc Board to Rapsiberry Pi.
 I have tested with Vlad.
-Working With Raspberry pi3 
+Working With Raspberry pi3- 
 1. I have connected my Pi3 with mouse, keyboard and monitor.
 2. I have installed the opearting system.
 3. I have Activated the Wifi Setting
