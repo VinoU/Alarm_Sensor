@@ -20,7 +20,7 @@ I had some issues while I was soldering. Then I got helped from Vlad and He was 
 
 I had hard time putting resister on my PC board but after Vlad watching taching some trick then I was able to do it by myself. It was great!!!!
 
-[Pciture](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Pictures/IMG_3089.JPG)
+![alt text](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Pictures/IMG_3089.JPG)
 [Video](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Pictures/PC%20Board%20video.MOV)
 ### October 16, 2017 - Week 4
 Proof of Purchases -
