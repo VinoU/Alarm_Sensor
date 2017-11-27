@@ -9,7 +9,7 @@ I have my PC Board Soldered and I made my Board working and now I need to connec
 I have tested with Vlad.
 
 
-Working With Raspberry pi3- 
+Working With Raspberry pi3- Amazing Teachnology ever Built :O
 1. I have connected my Pi3 with mouse, keyboard and monitor.
 2. I have installed the opearting system.
 3. I have Activated the Wifi Setting
