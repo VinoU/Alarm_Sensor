@@ -12,7 +12,7 @@ I have tested with Vlad.
 Working With Raspberry pi3- Amazing Teachnology ever Built :O
 1. I have connected my Pi3 with mouse, keyboard and monitor.
 2. I have installed the opearting system.
-3. I have Activated the Wifi Setting
+3. I am activating the Wifi Setting Having some issues . Hope I fix it 
 ### October 23, 2017 - Week 5
 PC Board:
 
