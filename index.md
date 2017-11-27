@@ -8,7 +8,7 @@ CENG 317 - Bar_QR_Code_Scanners
 ### December 11, 2017 - Week 8
 ### December 04, 2017 - Week 7
 ### November 27, 2017 - Week 6
-I have my PC Board Stored and I made my Board working and now I need to connect to my Pc Board to Rapsiberry Pi
+I have my PC Board Stored and I made my Board working and now I need to connect to my Pc Board to Rapsiberry Pi.
 I have tested with Vlad.
 ### October 23, 2017 - Week 5
 PC Board:
