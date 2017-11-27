@@ -5,7 +5,6 @@ CENG 317 - Bar_QR_Code_Scanners
 ### November 20, 2017 - Week 9
 ### November 13, 2017 - Week 8
 ### November 06, 2017 - Week 7
-### October 30, 2017 - Week 6
 ### October 23, 2017 - Week 5
 PC Board:
 [Pciture](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Pictures/IMG_3089.JPG)
