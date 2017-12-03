@@ -4,6 +4,43 @@ CENG 317 - Bar_QR_Code_Scanners
 
 ### December 04, 2017 - Week 7
 In Progress
+Moment of Truth:D
+
+###### Making LED BLINK works with Raspberry Pi3 :
+## Scoure:
+git clone https://github.com/six0four/StudentSenseHat.git
+cd StudentSenseHat/firmware
+gcc -Wall -o traffic2B traffic2B.c -lwiringPi
+sudo ./traffic2B
+
+Step 1:
+I have Connected my PC board to Rasbperry Pi3:
+![alt text]()
+
+Step 2:
+Run Those Following Socure Code:
+![alt text]()
+
+Step 3:
+## Moment of Turth:
+LED was Blinking order :
+![alt text]()
+ 
+Report:
+
+
+### Making sensor work with Rasbperry Pi3:
+Step 1:
+From the Start Menu->Preferences->Raspberry Pi Configuration->Interfaces set I2C to Enabled.
+
+Step 2:
+make
+sudo ./ghmain
+
+Report:
+
+
+
 ### November 27, 2017 - Week 6
 I have my PC Board Soldered and I made my Board working and now I need to connect to my Pc Board to Rapsiberry Pi.
 I have tested with Vlad.
