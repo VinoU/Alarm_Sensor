@@ -3,7 +3,7 @@ CENG 317 - Bar_QR_Code_Scanners
 -------------
 
 ### December 04, 2017 - Week 7
-In Progress
+
 Moment of Truth:D
 
 ###### Making LED BLINK works with Raspberry Pi3 :
