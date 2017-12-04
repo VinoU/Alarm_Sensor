@@ -27,8 +27,7 @@
 
 **Step 1:**
 I have Connected my PC board to Rasbperry Pi3:
-![Image alt attribute](https://github.com/VinoU/Bar-QR
-codescanners/blob/master/Blinking%20LEB%20and%20Sensor/pcb%20on%20ras.JPG)
+![image alt](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Blinking%20LEB%20and%20Sensor/pcb%20on%20ras.JPG)
 
 **Step 2:**
 Run Those Following Socure Code:
