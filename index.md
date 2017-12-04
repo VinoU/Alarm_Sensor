@@ -48,9 +48,11 @@ From the Start Menu->Preferences->Raspberry Pi Configuration->Interfaces set I2C
 ![alt image](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Blinking%20LEB%20and%20Sensor/sensor%20on%20pcb2.JPG)
 
 ### Step 2:
-make
-sudo ./ghmain
 
+```Shell
+	make
+	sudo ./ghmain
+	```
 On Termnial
 ![alt image](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Blinking%20LEB%20and%20Sensor/sensors%20works.JPG)
 
