@@ -11,7 +11,7 @@
 6. [November 27, 2017 - Week 6]()
 7. [December 04, 2017 - Week 7]()
 
-
+-------------
 ## December 04, 2017 - Week 7
 
 **Moment of Truth:D**
