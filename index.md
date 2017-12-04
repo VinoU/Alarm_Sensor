@@ -1,5 +1,5 @@
 
-CENG 317 - Bar_QR_Code_Scanners
+# CENG 317 - Bar_QR_Code_Scanners
 -------------
 
 ### December 04, 2017 - Week 7
