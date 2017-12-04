@@ -19,11 +19,11 @@ Moment of Truth:D
 ### Making LED BLINK works with Raspberry Pi3 :
 ### Scoure:
  ```
-	git clone https://github.com/six0four/StudentSenseHat.git
-	cd StudentSenseHat/firmware
-	gcc -Wall -o traffic2B traffic2B.c -lwiringPi
-	sudo ./traffic2B
-	```
+ git clone https://github.com/six0four/StudentSenseHat.git
+ cd StudentSenseHat/firmware
+ gcc -Wall -o traffic2B traffic2B.c -lwiringPi
+ sudo ./traffic2B
+ ```
 
 ### Step 1:
 I have Connected my PC board to Rasbperry Pi3:
