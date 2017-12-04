@@ -31,13 +31,13 @@ I have Connected my PC board to Rasbperry Pi3:
 
 **Step 2:**
 Run Those Following Socure Code:
-![Image alt attribute](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Blinking%20LEB%20and%20Sensor/pcb1.JPG)
+![Image alt](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Blinking%20LEB%20and%20Sensor/pcb1.JPG?raw=true "sensor pic")<br>
 
 **Step 3:**
 ### Moment of Turth:
 LED was Blinking order :
-![Image alt attribute](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Blinking%20LEB%20and%20Sensor/pcb%20led%201.JPG)
- ![Image alt attribute](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Blinking%20LEB%20and%20Sensor/pcb%20led%202.JPG)
+![Image alt](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Blinking%20LEB%20and%20Sensor/pcb%20led%201.JPG)<br>
+ ![Image alt](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Blinking%20LEB%20and%20Sensor/pcb%20led%202.JPG)
  
 **Report:**
 I Connected pc to my Rasbperry and then I ran **traffic2B**  program and then LED was started to blinking from PC baord. When program says Red, the PCB LED was blinking Red and When program says Greed, the PCB LED was blinking green and also OFF.
@@ -46,8 +46,8 @@ I Connected pc to my Rasbperry and then I ran **traffic2B**  program and then LE
 ### Making sensor work with Rasbperry Pi3:
 **Step 1:**
 From the Start Menu->Preferences->Raspberry Pi Configuration->Interfaces set I2C to Enabled.
-![alt image](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Blinking%20LEB%20and%20Sensor/Sensor.JPG?raw=true "sensor pic")
-![alt image](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Blinking%20LEB%20and%20Sensor/sensor%20on%20pcb2.JPG?raw=true "sensor pic"))
+![image alt](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Blinking%20LEB%20and%20Sensor/Sensor.JPG?raw=true "sensor pic")
+![image alt](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Blinking%20LEB%20and%20Sensor/sensor%20on%20pcb2.JPG?raw=true "sensor pic"))
 
 **Step 2:**
 ```
@@ -56,7 +56,7 @@ From the Start Menu->Preferences->Raspberry Pi Configuration->Interfaces set I2C
  sudo ./ghmain
 ```
 On Termnial
-![alt image](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Blinking%20LEB%20and%20Sensor/sensors%20works.JPG?raw=true "sensor pic"))
+![image alt](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Blinking%20LEB%20and%20Sensor/sensors%20works.JPG?raw=true "sensor pic"))
 
 Report:
 
@@ -75,9 +75,9 @@ I have tested with Vlad.
 
 Working With Raspberry pi3- Amazing Teachnology ever Built :O
 1.
-![Image alt attribute]("https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Raspberry%20Pi3/IMG_3474.JPG"?raw=true "sensor pic")
+![Image alt]("https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Raspberry%20Pi3/IMG_3474.JPG"?raw=true "sensor pic")
 2. I have installed the opearting system.
-![Image alt attribute](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Raspberry%20Pi3/IMG_3473.JPG?raw=true "sensor pic")
+![Image alt](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Raspberry%20Pi3/IMG_3473.JPG?raw=true "sensor pic")
 3. I am activating the Wifi Setting Having some issues . Hope I fix it 
 ![alt text](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Raspberry%20Pi3/IMG_3481.JPG?raw=true "sensor pic")
 -------------
