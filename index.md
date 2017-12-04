@@ -19,25 +19,31 @@ I have Connected my PC board to Rasbperry Pi3:
 
 Step 2:
 Run Those Following Socure Code:
-![alt text]()
+![alt text](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Blinking%20LEB%20and%20Sensor/pcb1.JPG)
 
 Step 3:
 ## Moment of Turth:
 LED was Blinking order :
-![alt text]()
- 
+![alt text](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Blinking%20LEB%20and%20Sensor/pcb%20led%201.JPG)
+ ![alt text](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Blinking%20LEB%20and%20Sensor/pcb%20led%202.JPG)
 Report:
 
 
 ### Making sensor work with Rasbperry Pi3:
 Step 1:
 From the Start Menu->Preferences->Raspberry Pi Configuration->Interfaces set I2C to Enabled.
+![alt image](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Blinking%20LEB%20and%20Sensor/Sensor.JPG)
+![alt image](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Blinking%20LEB%20and%20Sensor/sensor%20on%20pcb2.JPG)
 
 Step 2:
 make
 sudo ./ghmain
 
+On Termnial
+![alt image](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Blinking%20LEB%20and%20Sensor/sensors%20works.JPG)
+
 Report:
+On Terminal, I can see the seonsors are which are (light, tempatue, 
 
 
 
