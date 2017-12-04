@@ -27,17 +27,18 @@
 
 **Step 1:**
 I have Connected my PC board to Rasbperry Pi3:
-![alt text](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Blinking%20LEB%20and%20Sensor/pcb%20on%20ras.JPG)
+![Image alt attribute](https://github.com/VinoU/Bar-QR
+codescanners/blob/master/Blinking%20LEB%20and%20Sensor/pcb%20on%20ras.JPG)
 
 **Step 2:**
 Run Those Following Socure Code:
-![alt text](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Blinking%20LEB%20and%20Sensor/pcb1.JPG)
+![Image alt attribute](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Blinking%20LEB%20and%20Sensor/pcb1.JPG)
 
 **Step 3:**
 ### Moment of Turth:
 LED was Blinking order :
-![alt text](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Blinking%20LEB%20and%20Sensor/pcb%20led%201.JPG)
- ![alt text](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Blinking%20LEB%20and%20Sensor/pcb%20led%202.JPG)
+![Image alt attribute](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Blinking%20LEB%20and%20Sensor/pcb%20led%201.JPG)
+ ![Image alt attribute](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Blinking%20LEB%20and%20Sensor/pcb%20led%202.JPG)
 Report:
 
 
@@ -69,7 +70,7 @@ I have tested with Vlad.
 Working With Raspberry pi3- Amazing Teachnology ever Built :O
 1.[Image alt attribute]("https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Raspberry%20Pi3/IMG_3474.JPG")
 2. I have installed the opearting system.
-![alt text](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Raspberry%20Pi3/IMG_3473.JPG)
+![Image alt attribute](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Raspberry%20Pi3/IMG_3473.JPG)
 3. I am activating the Wifi Setting Having some issues . Hope I fix it 
 ![alt text](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Raspberry%20Pi3/IMG_3481.JPG)
 ## October 23, 2017 - Week 5
