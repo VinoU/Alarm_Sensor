@@ -39,7 +39,8 @@ LED was Blinking order :
 ![Image alt attribute](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Blinking%20LEB%20and%20Sensor/pcb%20led%201.JPG)
  ![Image alt attribute](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Blinking%20LEB%20and%20Sensor/pcb%20led%202.JPG)
 Report:
-
+I Connected pc to my Rasbperry and then I ran **traffic2B**  program and then LED was started to blinking from PC baord. When program says Red, the PCB LED was blinking Red and When program says Greed, the PCB LED was blinking green and also OFF.
+![image alt]()
 
 ### Making sensor work with Rasbperry Pi3:
 **Step 1:**
@@ -67,7 +68,8 @@ I have tested with Vlad.
 
 
 Working With Raspberry pi3- Amazing Teachnology ever Built :O
-1.[Image alt attribute]("https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Raspberry%20Pi3/IMG_3474.JPG")
+1.
+![Image alt attribute]("https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Raspberry%20Pi3/IMG_3474.JPG")
 2. I have installed the opearting system.
 ![Image alt attribute](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Raspberry%20Pi3/IMG_3473.JPG)
 3. I am activating the Wifi Setting Having some issues . Hope I fix it 
@@ -83,15 +85,15 @@ I had hard time putting resister on my PC board but after Vlad watching taching 
 ![Watch the video](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Pictures/PC%20Board%20video.MOV)
 ## October 16, 2017 - Week 4
 Proof of Purchases -
-CanaKit Raspberry Pi 3 Complete Starter Kit - 32 GB Edition
+**CanaKit Raspberry Pi 3 Complete Starter Kit - 32 GB Edition**
 [Invoice](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Invoices/CanaKit%20Raspberry%20Pi3.pdf).
 ![alt text](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Pictures/IMG_3112.JPG)
 
-SunFounder Relay Module for Arduino 5V DC Trigger by Low
+**SunFounder Relay Module for Arduino 5V DC Trigger by Low**
 [Invoice](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Invoices/Relay%20Moudle.pdf).
 ![alt text](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Pictures/IMG_3105.JPG)
 
-SunFounder Active Buzzer Sensor Module for Arduino and Raspberry Pi
+**SunFounder Active Buzzer Sensor Module for Arduino and Raspberry Pi**
 [Invoice](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Invoices/Buzzer.pdf).
 ![alt text](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Pictures/IMG_3096.JPG)
 
