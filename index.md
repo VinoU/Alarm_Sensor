@@ -6,7 +6,7 @@ CENG 317 - Bar_QR_Code_Scanners
 
 Moment of Truth:D
 
-###### Making LED BLINK works with Raspberry Pi3 :
+# Making LED BLINK works with Raspberry Pi3 :
 ## Scoure:
 git clone https://github.com/six0four/StudentSenseHat.git
 cd StudentSenseHat/firmware
