@@ -60,8 +60,12 @@ On Termnial
 
 Report:
 
-On Terminal, I connected the seonsors which are (light, tempatue humidity) working fine expect humidity and Tempeatre. I ran the program called **ghmain**. and then light sensor deacting the light, Tempeature sensor was not deacting the tempeature, and lastly the humidity was not working probaly. I am having some issue with Connection on P board.
+On Terminal, I connected the seonsors which are (light, tempatue humidity) working fine expect humidity. I ran the program called **ghmain**. and then light sensor detecting the light, Tempeature sensor was detecting the tempeature, and lastly the humidity was not detecting probaly. I am having some issue with Connection on P board.
+
 ![image alt](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Blinking%20LEB%20and%20Sensor/sensor%20output.JPG)
+
+**Isues with PC board**
+I had an isue with pc boad layout and then Kelly could able to fixed to for me . It was great expernices
 
 -------------
 ## November 27, 2017 - Week 6
