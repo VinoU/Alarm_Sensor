@@ -4,12 +4,12 @@
 ## Table of Contents
 1. [September 6, 2017 - Week 0]()
 2. [September 18, 2017 - Week 1]()
-2. [September 25, 2017 - Week 2]
-3. [October 02, 2017 - Week 3]
-4. [October 16, 2017 - Week 4]
-5. [October 23, 2017 - Week 5]
-6. [November 27, 2017 - Week 6]
-7. [December 04, 2017 - Week 7]
+2. [September 25, 2017 - Week 2]()
+3. [October 02, 2017 - Week 3]()
+4. [October 16, 2017 - Week 4]()
+5. [October 23, 2017 - Week 5]()
+6. [November 27, 2017 - Week 6]()
+7. [December 04, 2017 - Week 7]()
 
 
 ## December 04, 2017 - Week 7
