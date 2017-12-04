@@ -38,9 +38,10 @@ Run Those Following Socure Code:
 LED was Blinking order :
 ![Image alt attribute](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Blinking%20LEB%20and%20Sensor/pcb%20led%201.JPG)
  ![Image alt attribute](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Blinking%20LEB%20and%20Sensor/pcb%20led%202.JPG)
-Report:
+ 
+**Report:**
 I Connected pc to my Rasbperry and then I ran **traffic2B**  program and then LED was started to blinking from PC baord. When program says Red, the PCB LED was blinking Red and When program says Greed, the PCB LED was blinking green and also OFF.
-![image alt]()
+![image alt](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Blinking%20LEB%20and%20Sensor/led%20output.JPG)
 
 ### Making sensor work with Rasbperry Pi3:
 **Step 1:**
@@ -58,7 +59,9 @@ On Termnial
 ![alt image](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Blinking%20LEB%20and%20Sensor/sensors%20works.JPG)
 
 Report:
-On Terminal, I can see the seonsors are which are (light, tempatue, 
+
+On Terminal, I connected the seonsors which are (light, tempatue humidity) working fine expect humidity. I ran the program called **ghmain**. and then light sensor deacting the light, Tempeature sensor was deacting the tempeature, and lastly the humidity was not working probaly. I am having some issue with that sensor.
+![image alt](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Blinking%20LEB%20and%20Sensor/sensor%20output.JPG)
 
 
 
