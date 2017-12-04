@@ -1,6 +1,22 @@
 
 # CENG 317 - Bar_QR_Code_Scanners
 -------------
+## Table of Contents
+1. [Week 0](## September 6, 2017 - Week 0)
+2. [Week 1](## September 18, 2017 - Week 1)
+2. [Week 2](## September 25, 2017 - Week 2)
+3. [Week 3](## October 02, 2017 - Week 3)
+4. [Week 4](## October 16, 2017 - Week 4)
+5. [Week 5](## October 23, 2017 - Week 5)
+6. [Week 6](## November 27, 2017 - Week 6)
+7. [Week 7](## December 04, 2017 - Week 7)
+8. [Week 8]()
+9. [Week 9]()
+10.[Week 10]()
+11.[Week 11]()
+12.[Week 12]()
+13.[Week 13]()
+
 
 ## December 04, 2017 - Week 7
 
