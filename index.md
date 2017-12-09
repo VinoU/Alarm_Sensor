@@ -141,12 +141,14 @@ I have Created [Gantt Chart schedule](https://github.com/VinoU/Bar-QR-code-scann
 ### Proposal
 
  I have Created [proposal](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/vino_%20proposal.xlsx).
+ 
 -------------
 ## September 6, 2017 - Week 0
 
 ### Respository
 
 I have Created [repository](https://github.com/VinoU/Bar-QR-code-scanners).
+
 -------------
 ## August 30, 2017 
 
