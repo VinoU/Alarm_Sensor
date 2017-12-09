@@ -55,7 +55,7 @@ I Connected pc to my Rasbperry and then I ran **traffic2B**  program and then LE
 **Step 1:**
 From the Start Menu->Preferences->Raspberry Pi Configuration->Interfaces set I2C to Enabled.
 ![image alt](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Blinking%20LEB%20and%20Sensor/Sensor.JPG?raw=true "sensor pic")
-![image alt](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Blinking%20LEB%20and%20Sensor/sensor%20on%20pcb2.JPG?raw=true "sensor pic"))
+![image alt](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Blinking%20LEB%20and%20Sensor/sensor%20on%20pcb2.JPG?raw=true "sensor pic")
 
 **Step 2:**
 ```
