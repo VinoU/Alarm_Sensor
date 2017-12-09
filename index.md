@@ -31,7 +31,12 @@ I have Connected my PC board to Rasbperry Pi3:
 
 **Step 2:**
 Run Those Following Socure Code:
-![Image alt](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Optimized-pcb%20on%20ras.JPG?raw=true "sensor pic")<br>
+```
+ git clone https://github.com/six0four/StudentSenseHat.git
+ cd StudentSenseHat/firmware
+ gcc -Wall -o traffic2B traffic2B.c -lwiringPi
+ sudo ./traffic2B
+```
 
 **Step 3:**
 ### Moment of Turth:
