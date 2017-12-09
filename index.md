@@ -46,7 +46,6 @@ LED was Blinking order :
  
 **Report:**
 I Connected pc to my Rasbperry and then I ran **traffic2B**  program and then LED was started to blinking from PC baord. When program says Red, the PCB LED was blinking Red and When program says Greed, the PCB LED was blinking green and also OFF.
-![image alt](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Blinking%20LEB%20and%20Sensor/IMG_3580.JPG?raw=true "sensor pic")
 
 ### Making sensor work with Rasbperry Pi3:
 **Step 1:**
