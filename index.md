@@ -3,20 +3,20 @@
 -------------
 ## Table of Contents
 1. [September 6, 2017 - Week 0](#respository)
-2. [September 18, 2017 - Week 1]()
-2. [September 25, 2017 - Week 2]()
-3. [October 02, 2017 - Week 3]()
-4. [October 16, 2017 - Week 4]()
-5. [October 23, 2017 - Week 5]()
-6. [November 27, 2017 - Week 6]()
-7. [December 04, 2017 - Week 7]()
+2. [September 18, 2017 - Week 1](#proposal)
+2. [September 25, 2017 - Week 2](#gantt-chart-schedule)
+3. [October 02, 2017 - Week 3](#budget-report)
+4. [October 16, 2017 - Week 4](#proof-of-purchases)
+5. [October 23, 2017 - Week 5](#pc-board)
+6. [November 27, 2017 - Week 6](#connecting-pi3-first-time)
+7. [December 04, 2017 - Week 7](#making-led-blink-works-with-raspberry-pi3)
 
 -------------
 ## December 04, 2017 - Week 7
 
-**Moment of Trut**
+**Moment of Truth**
 
-### Making LED BLINK works with Raspberry Pi3 :
+### Making LED BLINK works with Raspberry Pi3
 ### Scoure:
  ```
  git clone https://github.com/six0four/StudentSenseHat.git
