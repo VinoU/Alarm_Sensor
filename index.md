@@ -14,7 +14,7 @@
 -------------
 ## December 04, 2017 - Week 7
 
-**Moment of Truth:D**
+**Moment of Trut**
 
 ### Making LED BLINK works with Raspberry Pi3 :
 ### Scoure:
@@ -77,6 +77,9 @@ I had an isue with pc boad layout and then Kelly could able to fixed to for me .
 
 -------------
 ## November 27, 2017 - Week 6
+
+### Connecting Pi3 first time
+
 I have my PC Board Soldered and I made my Board working and now I need to connect to my Pc Board to Rapsiberry Pi.
 I have tested with Vlad.
 
@@ -90,7 +93,8 @@ Working With Raspberry pi3- Amazing Teachnology ever Built :O
 ![alt text](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Raspberry%20Pi3/IMG_3481.JPG?raw=true "sensor pic")
 -------------
 ## October 23, 2017 - Week 5
-PC Board:
+
+### PC Board
 
 I had some issues while I was soldering. Then I got helped from Vlad and He was teaching my How to fix if the slodering is not in proper.
 
@@ -100,7 +104,9 @@ I had hard time putting resister on my PC board but after Vlad watching taching 
 ![Watch the video](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Pictures/PC%20Board%20video.MOV)
 -------------
 ## October 16, 2017 - Week 4
-Proof of Purchases -
+
+### Proof of Purchases
+
 **CanaKit Raspberry Pi 3 Complete Starter Kit - 32 GB Edition**
 [Invoice](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Invoices/CanaKit%20Raspberry%20Pi3.pdf?raw=true "sensor pic").
 ![alt text](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Pictures/IMG_3112.JPG?raw=true "sensor pic")
@@ -114,18 +120,27 @@ Proof of Purchases -
 ![alt text](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Pictures/IMG_3096.JPG?raw=true "sensor pic")
 -------------
 ## October 02, 2017 - Week 3
+
+#### Budget Report
+
 I have created [my Budget Report](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Parts%20Budget%20Vino%20Uthayakumar%20-%20new.xlsx).
 -------------
 ## September 25, 2017 - Week 2
+
+### Gantt chart schedule
 
 I have Created [Gantt Chart schedule](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Vino%20Uthayakumar_Project%20Schedule.mpp).  
 
 -------------
 ## September 18, 2017 - Week 1
 
+### Proposal
+
  I have Created [proposal](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/vino_%20proposal.xlsx).
 -------------
 ## September 6, 2017 - Week 0
+
+### Respository
 
 I have Created [repository](https://github.com/VinoU/Bar-QR-code-scanners).
 -------------
