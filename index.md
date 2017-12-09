@@ -27,7 +27,7 @@
 
 **Step 1:**
 I have Connected my PC board to Rasbperry Pi3:
-![image alt](https://raw.githubusercontent.com/VinoU/Bar-QR-code-scanners/master/final%20ras%20on%20pcb.JPG)<br>
+![image alt](https://raw.githubusercontent.com/VinoU/Bar-QR-code-scanners/master/pcb%20on%20ras.JPG)<br>
 
 **Step 2:**
 Run Those Following Socure Code:
