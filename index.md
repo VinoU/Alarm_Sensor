@@ -2,7 +2,7 @@
    # CENG 317 - Bar_QR_Code_Scanners
 -------------
 ## Table of Contents
-1. [September 6, 2017 - Week 0]()
+1. [September 6, 2017 - Week 0](## September 6, 2017 - Week 0)
 2. [September 18, 2017 - Week 1]()
 2. [September 25, 2017 - Week 2]()
 3. [October 02, 2017 - Week 3]()
@@ -65,6 +65,10 @@ On Termnial
 Report:
 
 On Terminal, I connected the seonsors which are (light, tempatue humidity) working fine expect humidity. I ran the program called **ghmain**. and then light sensor detecting the light, Tempeature sensor was detecting the tempeature, and lastly the humidity was not detecting probaly. I am having some issue with Connection on P board.
+
+
+**Isues with Programming code:**
+We have fixed the isue with new Programming code and now it is running very smoothly. All the sensors are detecting probably.
 
 ![image alt](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Blinking%20LEB%20and%20Sensor/sensor%20output.JPG?raw=true "sensor pic")
 
