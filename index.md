@@ -31,7 +31,7 @@ I have Connected my PC board to Rasbperry Pi3:
 
 **Step 2:**
 Run Those Following Socure Code:
-![Image alt](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Blinking%20LEB%20and%20Sensor/pcb1.JPG?raw=true "sensor pic")<br>
+![Image alt](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Optimized-pcb%20on%20ras.JPG?raw=true "sensor pic")<br>
 
 **Step 3:**
 ### Moment of Turth:
