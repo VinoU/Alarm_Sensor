@@ -46,7 +46,7 @@ Run Those Following Socure Code:
 ### Moment of Turth:
 LED was Blinking order :
 ![Image alt](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Blinking%20LEB%20and%20Sensor/pcb%20led%201.JPG?raw=true "sensor pic")<br>
- ![Image alt](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Blinking%20LEB%20and%20Sensor/pcb%20led%202.JPG?raw=true "sensor pic")
+ ![Image alt](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Blinking%20LEB%20and%20Sensor/pcb%20led%202.JPG?raw=true "sensor pic")<br>
  
 **Report:**
 I Connected pc to my Rasbperry and then I ran **traffic2B**  program and then LED was started to blinking from PC baord. When program says Red, the PCB LED was blinking Red and When program says Greed, the PCB LED was blinking green and also OFF.
@@ -63,16 +63,16 @@ From the Start Menu->Preferences->Raspberry Pi Configuration->Interfaces set I2C
  make
  sudo ./ghmain
 ```
-On Termnial
-![image alt](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Blinking%20LEB%20and%20Sensor/sensors%20works.JPG?raw=true "sensor pic"))
+On Termnial<br>
+![image alt](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Blinking%20LEB%20and%20Sensor/sensors%20works.JPG?raw=true "pic")
 
-Report:
+**Report:**
 
 On Terminal, I connected the seonsors which are (light, tempatue humidity) working fine expect humidity. I ran the program called **ghmain**. and then light sensor detecting the light, Tempeature sensor was detecting the tempeature, and lastly the humidity was not detecting probaly. I am having some issue with Connection on P board.
 
 
 **Isues with Programming code:**
-We have fixed the isue with new Programming code and now it is running very smoothly. All the sensors are detecting probably.
+We have fixed the isue with new Programming code and now it is running very smoothly. All the sensors are detecting probably.<br>
 
 ![image alt](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Blinking%20LEB%20and%20Sensor/sensor%20output.JPG?raw=true "sensor pic")
 
@@ -85,7 +85,7 @@ I had an isue with pc boad layout and then Kelly could able to fixed to for me .
 ### Connecting Pi3 first time
 
 I have my PC Board Soldered and I made my Board working and now I need to connect to my Pc Board to Rapsiberry Pi.
-I have tested with Vlad.
+I have tested with Vlad.<br>
 
 
 Working With Raspberry pi3- Amazing Teachnology ever Built :O
