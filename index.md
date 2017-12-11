@@ -11,11 +11,13 @@
 5. [October 23, 2017 - Week 5](#pc-board)
 6. [November 27, 2017 - Week 6](#connecting-pi3-first-time)
 7. [December 04, 2017 - Week 7](#making-led-blink-works-with-raspberry-pi3)
+8. [December 08, 2017 - Week 7](#pla-card)
 
 -------------
-## December 04, 2017 - Week 7
+## December 11, 2017 - Week 7
 
 ## Pla Card
+![image alt](https://raw.githubusercontent.com/VinoU/Bar-QR-code-scanners/master/Pla%20Card%20Image%20.jpg)<br>
 
 ## My  30 second Script 
 Here is mt script :
