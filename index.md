@@ -17,7 +17,7 @@
 ## December 11, 2017 - Week 7
 
 ## Pla Card
-![image alt](https://raw.githubusercontent.com/VinoU/Bar-QR-code-scanners/master/Pla%20Card%20Image%20.jpg)<br>
+![image alt](https://raw.githubusercontent.com/VinoU/Bar-QR-code-scanners/master/Pla%20Card%20Image%20.jpg) <br>
 
 ## My  30 second Script 
 
