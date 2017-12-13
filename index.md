@@ -23,7 +23,7 @@
 
 Here is mt script :
 
-![image alt](https://raw.githubusercontent.com/VinoU/Bar-QR-code-scanners/master/30%20Second%20Script%20Vinokkumar%20uthayakumar-1.jpg) <br>
+![image alt](https://raw.githubusercontent.com/VinoU/Bar-QR-code-scanners/master/30%20Second%20Script%20Vinokkumar%20uthayakumar-1%202.jpg) <br>
 
 This is my Wor file od scripting
 [Click here for word file](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/30%20Second%20Script%20Vinokkumar%20uthayakumar.docx) <br>
