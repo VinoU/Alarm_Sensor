@@ -17,6 +17,7 @@
 -------------
 ## December 18, 2017 - Week 8
 ## video
+<iframe width="640" height="360" src="https://www.youtube.com/embed/jTI7DDi5JlM" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 **I have made my 30 seconds of video and here is ths link for it**
 
