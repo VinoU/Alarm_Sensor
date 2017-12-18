@@ -21,7 +21,7 @@
 **I have made my 30 seconds of video and here is ths link for it**
 
 In E-money transfer, I am using relay module as my sensor. I’m using this sensor for security purposes. I am going to connect my relay module to raspberry pi3 and I also have a buzzer which is used to indicate the output of the relay module. The relay module will detect if the payment has done or not with the barcode created by my app from software. Once it detects that product has been stolen then the buzzer will go off indicating that the transaction has not been made. By this way we can prevent scamming.
-
+[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=jTI7DDi5JlM)
 [30s of video](https://www.youtube.com/watch?v=jTI7DDi5JlM)<br>
 Report: 
 I was able to show my parts that I purchased and the how I am connacting my sensor to  respberry pi3 and making them power up!
