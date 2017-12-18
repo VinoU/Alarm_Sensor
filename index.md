@@ -18,7 +18,7 @@
 ## December 18, 2017 - Week 8
 ## video
 
-**I have made my 30 seconds of video and here is ths link for it
+**I have made my 30 seconds of video and here is ths link for it**
 
 [30s of video](https://www.youtube.com/watch?v=jTI7DDi5JlM)
 
