@@ -148,7 +148,7 @@ I had hard time putting resister on my PC board but after Vlad watching taching 
 
 **SunFounder Active Buzzer Sensor Module for Arduino and Raspberry Pi**
 [Invoice](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Invoices/Buzzer.pdf).
-![alt text](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Pictures/IMG_3096.JPG?raw=true "sensor pic")
+![alt text](https://raw.githubusercontent.com/VinoU/Bar-QR-code-scanners/master/BUZZER.jpg?raw=true "sensor pic")
 -------------
 ## October 02, 2017 - Week 3
 
