@@ -144,7 +144,7 @@ I had hard time putting resister on my PC board but after Vlad watching taching 
 
 **SunFounder Relay Module for Arduino 5V DC Trigger by Low**
 [Invoice](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Invoices/Relay%20Moudle.pdf).
-![alt text](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Pictures/IMG_3105.JPG?raw=true "sensor pic")
+![alt text](https://raw.githubusercontent.com/VinoU/Bar-QR-code-scanners/master/Relay%20Module.jpg?raw=true "sensor pic")
 
 **SunFounder Active Buzzer Sensor Module for Arduino and Raspberry Pi**
 [Invoice](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Invoices/Buzzer.pdf).
