@@ -11,8 +11,8 @@
 5. [October 23, 2017 - Week 5](#pc-board)
 6. [November 27, 2017 - Week 6](#connecting-pi3-first-time)
 7. [December 04, 2017 - Week 7](#making-led-blink-works-with-raspberry-pi3)
-8. [December 11, 2017 - Week 7](#pla-card)
-9. [December 18, 2017 - Week 8](#video)
+8. [December 11, 2017 - Week 8](#pla-card)
+9. [December 18, 2017 - Week 9](#video)
 
 -------------
 ## December 18, 2017 - Week 8
