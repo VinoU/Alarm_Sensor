@@ -31,7 +31,7 @@ I was able to show my parts that I purchased and the how I am connacting my sens
 ## December 11, 2017 - Week 7
 
 ## Pla Card
-![image alt](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/PLA%20Card.jpg) <br>
+![image alt](https://raw.githubusercontent.com/VinoU/Bar-QR-code-scanners/master/PLA%20Card.jpg" height="500" width="500") <br>
 
 ## My  30 second Script 
 
