@@ -31,13 +31,13 @@ I was able to show my parts that I purchased and the how I am connacting my sens
 ## December 11, 2017 - Week 7
 
 ## Pla Card
-![image alt](https://raw.githubusercontent.com/VinoU/Bar-QR-code-scanners/master/PLA%20Card.jpg height=300) <br>
+![image alt](https://raw.githubusercontent.com/VinoU/Bar-QR-code-scanners/master/PLA%20Card.jpg) <br>
 
 ## My  30 second Script 
 
 Here is mt script :
 
-![image alt](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Script.jpg) <br>
+![image alt](https://raw.githubusercontent.com/VinoU/Bar-QR-code-scanners/master/Script.jpg) <br>
 
 This is my Word file 30s scripting
 [Click here for word file](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/30%20Second%20Script%20Vinokkumar%20uthayakumar.docx) <br>
@@ -58,7 +58,7 @@ This is my Word file 30s scripting
 
 **Step 1:**
 I have Connected my PC board to Rasbperry Pi3:
-![image alt](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/PCB%20On%20Pi3.jpg)<br>
+![image alt](https://raw.githubusercontent.com/VinoU/Bar-QR-code-scanners/master/PCB%20On%20Pi3.jpg)<br>
 
 **Step 2:**
 Run Those Following Socure Code:
@@ -72,8 +72,8 @@ Run Those Following Socure Code:
 **Step 3:**
 ### Moment of Turth:
 LED was Blinking order :
-![Image alt](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Blinking%20PCB.jpg?raw=true "Blinking")<br>
- ![Image alt](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Blinking%20pCb%202.jpg?raw=true "Blinking")<br>
+![Image alt](https://raw.githubusercontent.com/VinoU/Bar-QR-code-scanners/master/Blinking%20PCB.jpg)<br>
+ ![Image alt](https://raw.githubusercontent.com/VinoU/Bar-QR-code-scanners/master/Blinking%20pCb%202.jpg)<br>
  
 **Report:**
 I Connected pc to my Rasbperry and then I ran **traffic2B**  program and then LED was started to blinking from PC baord. When program says Red, the PCB LED was blinking Red and When program says Greed, the PCB LED was blinking green and also OFF.
@@ -81,8 +81,8 @@ I Connected pc to my Rasbperry and then I ran **traffic2B**  program and then LE
 ### Making sensor work with Rasbperry Pi3:
 **Step 1:**
 From the Start Menu->Preferences->Raspberry Pi Configuration->Interfaces set I2C to Enabled.
-![image alt](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/SENSOR.jpg?raw=true "sensors pic")
-![image alt](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Sensors%20ON%20PCB.jpg?raw=true "sensor on PCB")
+![image alt](https://raw.githubusercontent.com/VinoU/Bar-QR-code-scanners/master/SENSOR.jpg)
+![image alt](https://raw.githubusercontent.com/VinoU/Bar-QR-code-scanners/master/Sensors%20ON%20PCB.jpg)
 
 **Step 2:**
 ```
@@ -91,7 +91,7 @@ From the Start Menu->Preferences->Raspberry Pi Configuration->Interfaces set I2C
  sudo ./ghmain
 ```
 On Termnial<br>
-![image alt](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/output.jpg?raw=true "sensors on Terminal pic")
+![image alt](https://raw.githubusercontent.com/VinoU/Bar-QR-code-scanners/master/output.jpg)
 
 **Report:**
 
@@ -101,7 +101,7 @@ On Terminal, I connected the seonsors which are (light, tempatue humidity) worki
 **Isues with Programming code:**
 We have fixed the isue with new Programming code and now it is running very smoothly. All the sensors are detecting probably.<br>
 
-![image alt](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Output%202.jpg?raw=true "Output pic")
+![image alt](https://raw.githubusercontent.com/VinoU/Bar-QR-code-scanners/master/Output%202.jpg)
 
 **Isues with PC board**
 I had an isue with pc boad layout and then Kelly could able to fixed to for me . It was great expernices
@@ -119,9 +119,9 @@ Working With Raspberry pi3- Amazing Teachnology ever Built :O
 1.
 ![Image alt](?raw=true "sensor pic")
 2. I have installed the opearting system.
-![Image alt](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/CONNECTED.jpg?raw=true "Installing OS")
+![Image alt](https://raw.githubusercontent.com/VinoU/Bar-QR-code-scanners/master/CONNECTED.jpg)
 3. I am activating the Wifi Setting Having some issues . Hope I fix it 
-![alt text](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/PI3%20Termnial.jpg?raw=true "Connected pi3")
+![alt text](https://raw.githubusercontent.com/VinoU/Bar-QR-code-scanners/master/PI3%20Termnial.jpg)
 -------------
 ## October 23, 2017 - Week 5
 
@@ -131,7 +131,7 @@ I had some issues while I was soldering. Then I got helped from Vlad and He was 
 
 I had hard time putting resister on my PC board but after Vlad watching taching some trick then I was able to do it by myself. It was great!!!!
 
-![alt text](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/PC%20Board.jpg?raw=true "PC Board")
+![alt text](https://raw.githubusercontent.com/VinoU/Bar-QR-code-scanners/master/PC%20Board.jpg)
 ![Watch the video](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Pictures/PC%20Board%20video.MOV)
 -------------
 ## October 16, 2017 - Week 4
@@ -140,15 +140,15 @@ I had hard time putting resister on my PC board but after Vlad watching taching 
 
 **CanaKit Raspberry Pi 3 Complete Starter Kit - 32 GB Edition**
 [Invoice](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Invoices/CanaKit%20Raspberry%20Pi3.pdf?raw=true "sensor pic").
-![alt text](https://raw.githubusercontent.com/VinoU/Bar-QR-code-scanners/master/Pi3.jpg?raw=true "Pi3 Picture")
+![alt text](https://raw.githubusercontent.com/VinoU/Bar-QR-code-scanners/master/Pi3.jpg)
 
 **SunFounder Relay Module for Arduino 5V DC Trigger by Low**
 [Invoice](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Invoices/Relay%20Moudle.pdf).
-![alt text](https://raw.githubusercontent.com/VinoU/Bar-QR-code-scanners/master/Relay%20Module.jpg?raw=true "Relay pic")
+![alt text](https://raw.githubusercontent.com/VinoU/Bar-QR-code-scanners/master/Relay%20Module.jpg)
 
 **SunFounder Active Buzzer Sensor Module for Arduino and Raspberry Pi**
 [Invoice](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Invoices/Buzzer.pdf).
-![alt text](https://raw.githubusercontent.com/VinoU/Bar-QR-code-scanners/master/BUZZER.jpg?raw=true "Buzzer pic")
+![alt text](https://raw.githubusercontent.com/VinoU/Bar-QR-code-scanners/master/BUZZER.jpg)
 -------------
 ## October 02, 2017 - Week 3
 
