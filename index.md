@@ -116,8 +116,6 @@ I have tested with Vlad.<br>
 
 
 Working With Raspberry pi3- Amazing Teachnology ever Built :O
-1.
-![Image alt](?raw=true "sensor pic")
 2. I have installed the opearting system.
 ![Image alt](https://raw.githubusercontent.com/VinoU/Bar-QR-code-scanners/master/CONNECTED.jpg)
 3. I am activating the Wifi Setting Having some issues . Hope I fix it 
