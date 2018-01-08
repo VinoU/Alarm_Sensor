@@ -13,11 +13,11 @@
 7. [December 04, 2017 - Week 7](#making-led-blink-works-with-raspberry-pi3)
 8. [December 11, 2017 - Week 8](#pla-card)
 9. [December 18, 2017 - Week 9](#video)
-10.[January 08, 2018 - Week 10](#Report)
+10. [January 08, 2018 - Week 10](#report)
 
 -------------
 ## January 08, 2018 - Week 10
-## Report
+## report
 
 **My Progress Report
 ![image alt](https://raw.githubusercontent.com/VinoU/Bar-QR-code-scanners/master/Vino%20Progress%20Report-1.jpg) <br>
