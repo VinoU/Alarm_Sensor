@@ -13,9 +13,19 @@
 7. [December 04, 2017 - Week 7](#making-led-blink-works-with-raspberry-pi3)
 8. [December 11, 2017 - Week 8](#pla-card)
 9. [December 18, 2017 - Week 9](#video)
+10.[January 08, 2018 - Week 10](#Report)
 
 -------------
-## December 18, 2017 - Week 8
+## January 08, 2018 - Week 10
+## Report
+
+**My Progress Report
+![image alt](https://raw.githubusercontent.com/VinoU/Bar-QR-code-scanners/master/Vino%20Progress%20Report-1.jpg) <br>
+
+[Demo video](https://www.youtube.com/watch?v=TRQ0XKUBW98)<br>
+
+
+## December 18, 2017 - Week 9
 ## video
 
 **I have made my 30 seconds of video and here is ths link for it**
@@ -28,7 +38,7 @@ I was able to show my parts that I purchased and the how I am connacting my sens
 
 
 -------------
-## December 11, 2017 - Week 7
+## December 11, 2017 - Week 8
 
 ## Pla Card
 ![image alt](https://raw.githubusercontent.com/VinoU/Bar-QR-code-scanners/master/PLA%20Card.jpg) <br>
