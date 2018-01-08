@@ -24,7 +24,7 @@
 
 [Demo video](https://www.youtube.com/watch?v=TRQ0XKUBW98)<br>
 
-
+-------------
 ## December 18, 2017 - Week 9
 ## video
 
