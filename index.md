@@ -19,7 +19,7 @@
 ## January 08, 2018 - Week 10
 ## report
 
-**My Progress Report
+**My Progress Report**
 ![image alt](https://raw.githubusercontent.com/VinoU/Bar-QR-code-scanners/master/Vino%20Progress%20Report-1.jpg) <br>
 
 [Demo video](https://www.youtube.com/watch?v=TRQ0XKUBW98)<br>
