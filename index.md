@@ -17,9 +17,10 @@
 11. [January 15, 2018 - Week 11](#Presentation)
 
 ------------
-## January 08, 2018 - Week 10
+## January 15, 2018 - Week 10
 ## Presentation
 Today is my Final Presenation 
+
 
 
 ## January 08, 2018 - Week 10
