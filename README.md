@@ -52,6 +52,7 @@ My Relay module sensor was acting like an alarm. TO built this, I was required r
 I soldered PCB board to add more senors.
 
 ![PCB](https://raw.githubusercontent.com/VinoU/Bar-QR-code-scanners/master/Pictures/IMG_3089.JPG)
+
 ![Sensors on PCB](https://raw.githubusercontent.com/VinoU/Bar-QR-code-scanners/master/Sensors%20ON%20PCB.jpg)
 
 
