@@ -1,272 +1,67 @@
-# Bar-QR-code-scanners
-Ramya RadhaKrishnaKumar, Vinokkumar Uthayakumar and Sushant Sharma are building a project called E-money transfer. In this project we will be creating a device, which will operate using sensors such as QR code scanner, Finger printer reader, Webcam and Bluetooth. Qr code will be send using bluetooth and it will be carrying some amount of money to a person and figner scanner will be used to unlock the amount and allow us to depoist into the banking account. We are going to use Raspberry pi 3 to connect with sesnors and come up with a device which can transfer money and make tranaction electronicall
-# An interface board for the Broadcom development platform also known as the Raspberry Pi
+
+# Relay module on a Raspberry pi3 
 
 ## Table of Contents
-1. [Student Sense Hat Specifications](#student-sense-hat-specifications)
-2. [Student Sense Hat Electronic Design Files](#student-sense-hat-electronic-design-files)
-2. [Student Sense Hat Assembly](#student-sense-hat-assembly)
-3. [Student Raspberry Pi Image Creation and Test Code](#student-raspberry-pi-image-creation-and-test-code)
-4. [Enterprise Wi-Fi](#enterprise-wi-fi)
+1. [Correct web template usage](#correct-web-template-usage)
+2. [Introduction using a system diagram](#introduction-using-a-system-diagram)
+2. [Bill of Materials/Budget](#bill-of-materials/budget)
+4. [Time Commitment](#time-commitment)
+5. [Mechanical Assembly](#mechanical-assembly)
+6. [PCB / Soldering](#pcb-soldering)
+7. [Power Up] (#power-up)
+8. [Unit Testing](#unit-testing)
+9. [Production Testing] (#production-testing)
 
-![Image of Prototype](https://raw.githubusercontent.com/six0four/StudentSenseHat/master/images/SSHrev05.jpg)
+![Image of Prototype](#https://raw.githubusercontent.com/VinoU/Bar-QR-code-scanners/master/Final%20Image.JPG)
 
-### Student Sense Hat Specifications
 
-NOTE: This mostly through hole design is pin compatible with original mostly surface mount sense hat design which is on the devices in the Humber Parts Crib. The Fall 2017 design is in [Fritzing](https://github.com/six0four/StudentSenseHat/blob/master/electronics/StudentSenseHatV06.fzz) while the Fall 2016 design was in [Eagle](https://github.com/vladporcila/ModularSenseHatStripped), if curious, take a look at using the [Sparkfun Cam file](https://learn.sparkfun.com/tutorials/using-eagle-board-layout/generating-gerbers). Once you have recieved your PCB the kit looks something like the following photo.
+### Correct web template usage
 
-![Kit Bag](https://raw.githubusercontent.com/six0four/StudentSenseHat/master/images/kitbag.jpg)
+In the Beginning, I had created the repository for this project to uplaod all my work and I had ro create to index.md which where i upload what I every week. The Template provided my Project Instructor. And In Readme.md, I am doing build Instruction, I got template for this from my Professor sample Readme.md. My webpage built in md langauage. I published whatever i have done evey week.
 
-For a list of materials please download the [Excel](https://github.com/six0four/StudentSenseHat/blob/master/electronics/StudentSenseHatV05_bom.xlsx) file in the repository.
+1. Support control of DC and AC signals (AC 220V load).
+2. Working voltage: 5V; PCB size: 2.0 x 4.3 cm.
+3. With power light and signal output indicator.
+4. A 3-pin anti-reverse cable included.
 
-The more interesting components consist of:
+![Kit Bag](#https://raw.githubusercontent.com/VinoU/Bar-QR-code-scanners/master/Pictures/IMG_3096.JPG) 
 
-1.  1 bidirectional LED
+For a list of materials please download the [Excel]() file in the repository.
 
-2.  DDS3231S IC RTC Clk/Calendar I2C 16-SOIC
-    <http://www.amazon.com/Donop-DS3231-AT24C32-precision-Arduino/dp/B00HCB7VYS>
+## Introduction using a system diagram
 
-3.  4 channel 8 bit a/d, 1 channel d/a PCF8591T I2C-Bus D/A CONVERTER
-    <http://www.modmypi.com/raspberry-pi/breakout-boards/seeed/raspberry-pi-adda-expansion-board>
-    https://www.creatroninc.com/product/pcf8591-8-bit-i2c-adc-dac/
+In E-money transfer, I am using relay module as my sensor. I’m using this sensor for security purposes. I am going to connect my relay module to raspberry pi3 and I also have a buzzer which is used to indicate the output of the relay module. The relay module will detect if the payment has done or not with the barcode created by my app from software. Once it detects that product has been stolen then the buzzer will go off indicating that the transaction has not been made. By this way we can prevent scamming.
 
-4.  Temperature, humidity, pressure sensor. SparkFun Atmospheric Sensor Breakout
+![System Diagram](#https://raw.githubusercontent.com/VinoU/Bar-QR-code-scanners/master/System%20Diagram.png)
 
-    -   BME280 <https://www.sparkfun.com/products/13676>
 
-5.  One optional surface mount resistor. 
-	
-###### Additional items that are only added to those devices in the Humber Parts Crib
+## Bill of Materials/Budget
+![Budget for my Porject](#https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Parts%20Budget%20Vino%20Uthayakumar%20-%20new.xlsx)
 
-1.  Humber sense hat eeprom for i2c id \<https://www.sparkfun.com/products/525
-    https://www.adafruit.com/product/1895\>
 
-2.  16 I/O pins MCP23017SO I/O Expander I2C
-    <https://www.adafruit.com/products/732>
+## Time Commitment
+![Schaudle](#https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Vino%20Uthayakumar_Project%20Schedule.pdf)
 
-3.  Breadboarding area
+Normally, To built this Project it will take about a week but however It took me about two weeks complated everything fully. First,For parts arrival from amazon and It took me aboutt wo days. Between that time I was getting knownlage about my parts from []. To Mechanical Assembly. Secondly, I have spend about a day to assembled everything together. Because I was Working Software requriment and also builting PC Board, so that took me another two days.Thirdly, To make my sesnor work I have to write program and then that took my two days. I have worte thr program in Python. Finally, I have made my sensor connected to pi3. SO It was almost two weeks to complate entire project with all the spefication and requriment from Instructor.
 
-![Image of Crib Pi](https://raw.githubusercontent.com/six0four/StudentSenseHat/master/images/cribpionly.jpg)
+## Mechanical Assembly
+![](#)
 
-### Student Sense Hat Electronic Design Files
+My Relay module sensor was acting like an alarm. TO built this, I was required raspberry platform and also a buzzer that indicate that output from relay. First, I  have installed respien OS on rasbperry pi3, so i can able to run the program to conect my module over the pi3. Secondly, I was connecting my Relay module to rapsberry for this connection, I connect the signal from relay module to GIO pin in Pi3. Secondly, I have to supply the power to my relay module so I was connecting 3.3v volatage pin in raspberry pi to the VCC in module (I AM PROVIDING 3.3V TO MY REALY MODULE BECAUSE IT IS A LOW LEVEL MODULE, THERE IS A HIGH LEVEL MODULE AND IT REQURIE 5V VCC PLEASE BE AWARE). And then I was coonecting a ground pin in pi3 to module ground so Now I was able to make a connection from my relay module and pi3. Finally, I was connecting my buzzer to my realy. so I connected the ground from buzzer to pi3 ground pin, and the signal from buzzer it connected to the relay module output, and then i provided 5V to the buzzer from raspberry pi3 pin and it started working as an alram when I ran my program.
 
-1.  The Fritzing file is available here: https://github.com/six0four/StudentSenseHat/tree/master/electronics/StudentSenseHatV06.fzz
-2.  It has a breadboard view:
-![Image of breadboard view](https://raw.githubusercontent.com/six0four/StudentSenseHat/master/electronics/StudentSenseHatV06_bb.jpg)
-Following the [best practices](https://wiki.creativecommons.org/wiki/Best_practices_for_attribution#Examples_of_attribution):
-This work is a derivative of "http://fritzing.org/parts/" by [Fritzing](http://fritzing.org/), used under [CC:BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/).
-3.  It has a schematic view:
-![Image of schematic view](https://raw.githubusercontent.com/six0four/StudentSenseHat/master/electronics/StudentSenseHatV06_schem.jpg)
-This work is a derivative of "http://fritzing.org/parts/" by [Fritzing](http://fritzing.org/), used under [CC:BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/).
-4.  It has a PCB view:
-![Image of PCB view](https://raw.githubusercontent.com/six0four/StudentSenseHat/master/electronics/StudentSenseHatV06_pcb.jpg)
-This work is a derivative of "http://fritzing.org/parts/" by [Fritzing](http://fritzing.org/), used under [CC:BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/).
-6.  A Bill Of Materials can be exported: [BOM](https://github.com/six0four/StudentSenseHat/blob/master/electronics/StudentSenseHatV05_bom.xlsx).
-7.  As well as Gerber files: [RS-274X](https://github.com/six0four/StudentSenseHat/blob/master/electronics/Gerber_RS-274X).
+## PCB / Soldering
+I soldered PCB board to add more senors.
 
-### Student Sense Hat Assembly
+![PCB](#https://raw.githubusercontent.com/VinoU/Bar-QR-code-scanners/master/Pictures/IMG_3089.JPG)
+![Sensors on PCB](#https://raw.githubusercontent.com/VinoU/Bar-QR-code-scanners/master/Sensors%20ON%20PCB.jpg)
 
-1. Please get started by ensuring that you have reviewed the [six 15 second soldering videos](https://radiojove.gsfc.nasa.gov/telescope/soldering.htm) and can comment on them. (If you are into materials, look up tin pest and tin whiskers.)
-2. Work through as much of this set of instructions as possible. (Feel free to drop through the Humber College Institute of Technology & Advanced Learning North Campus Prototype Lab in J233 for additional guidance both before and after class.)
-![Prototype Lab](https://raw.githubusercontent.com/six0four/StudentSenseHat/master/images/IMG_20170616_184112490_HDR.jpg)
-3. For additional soldering guidance such as surface mount and desoldering:
-	1. Watch some [YouTube Videos](https://www.youtube.com/watch?v=BLfXXRfRIzY&list=PLQ32vZrF5U2lFOJTtZDytBWBYVLNp4RYz).
-	2. Be sure to wear safety glasses and consult an expert regarding safety, you can even start at your [local hackerspace](https://wiki.hackerspaces.org/List_of_Hackerspaces) (Ideally working towards IPC J-STD-001 Requirements for Soldered Electrical and Electronic Assemblies).
-4. Please remember your eyewear (safety glasses if you don't regularly wear glasses) and select a seat in J232.
-![Image of lab station](https://raw.githubusercontent.com/six0four/MicroRover/master/images/1.1j232station.jpg) 
-5. Turn on the computer under the desk on the left side.
-6. Note the red power switch to the back right side of the workstation that controls the power to the monitor, overhead light, and test equipment.
-7. Also note the under desk grounding strap jack for wrist straps - Electronics (ELIC) students must buy the $4.99 wrist straps while both CENG and ELIC students are to have the $4.99 safety glasses.
-8. When soldering move the extraction arm flow control towards the straight through symbol as it is in the photo below.
-9. The sponge in the soldering station can be moistened at the sink in J233. 
-1. Start with components kit:  
-![Image of Prototype](https://raw.githubusercontent.com/six0four/StudentSenseHat/master/images/componentskit.jpg)
-1. Optional: try out your kit on your breadboard.
-![Image of Prototype](https://raw.githubusercontent.com/six0four/StudentSenseHat/master/images/bbphoto.jpg)
-2. Create schematic.
-3. Create board add photos of equipment and guide from 555 timer/prototype lab bb/plab I drive.
-4. At this stage you should have:
-![Image of Prototype](https://raw.githubusercontent.com/six0four/StudentSenseHat/master/images/componentsandpcb.jpg)
-5. Decide whether you will be attempting the optional surface mount resistor.
-![Prototype Assembly](https://raw.githubusercontent.com/six0four/StudentSenseHat/master/images/05.jpg)
-6. Or whether you will be going with the through hole resistor.
-![Prototype Assembly](https://raw.githubusercontent.com/six0four/StudentSenseHat/master/images/02.jpg)
-6. Place resistors in corresponding locations:
-![Prototype Assembly](https://raw.githubusercontent.com/six0four/StudentSenseHat/master/images/06.jpg)
-7. Bend the leads to hold them in place.  
-![Prototype Assembly](https://raw.githubusercontent.com/six0four/StudentSenseHat/master/images/07.jpg)
-8. Solder the resistors from the bottom.  
-![Prototype Assembly](https://raw.githubusercontent.com/six0four/StudentSenseHat/master/images/08.jpg)  
-9. Add flux if having trouble but, do not depress the end of the flux pen, just touching it is enough.
-![Prototype Assembly](https://raw.githubusercontent.com/six0four/StudentSenseHat/master/images/09.jpg)
-10. Solder the resistors from the top.  
-![Prototype Assembly](https://raw.githubusercontent.com/six0four/StudentSenseHat/master/images/10.jpg)
-11. Trim and keep excess leads (hold onto them while cutting to not allow them to become projectiles).
-![Prototype Assembly](https://raw.githubusercontent.com/six0four/StudentSenseHat/master/images/11.jpg)
-7. Place via wires (can be stripped solid core wire or just leftover cut off resistor/LED leads) in corresponding locations:
-![Prototype Assembly](https://raw.githubusercontent.com/six0four/StudentSenseHat/master/images/12.jpg)
-![Prototype Assembly](https://raw.githubusercontent.com/six0four/StudentSenseHat/master/images/13.jpg)
-![Prototype Assembly](https://raw.githubusercontent.com/six0four/StudentSenseHat/master/images/14.jpg)
-15. Solder vias.  
-![Prototype Assembly](https://raw.githubusercontent.com/six0four/StudentSenseHat/master/images/15.jpg)
-16. Trim the excess via leads.  
-![Prototype Assembly](https://raw.githubusercontent.com/six0four/StudentSenseHat/master/images/16.jpg)
-![Prototype Assembly](https://raw.githubusercontent.com/six0four/StudentSenseHat/master/images/17.jpg)
-18. Place MOSFETS and LED (N.B. the LED's longer leg is the same as on a red LED. Thus, when oriented the same way as the fritzing diagrams the red/green will be the opposite of those in the parts crib. Which way you put it is in your hands.)
-![Prototype Assembly](https://raw.githubusercontent.com/six0four/StudentSenseHat/master/images/18.jpg)
-![Prototype Assembly](https://raw.githubusercontent.com/six0four/StudentSenseHat/master/images/19.jpg)
-20. Solder one pin of each MOSFET only from bottom side, semiconductor devices are heat sensitive.
-![Prototype Assembly](https://raw.githubusercontent.com/six0four/StudentSenseHat/master/images/20.jpg)
-21. Solder another pin of each MOSFET only from bottom side.
-![Prototype Assembly](https://raw.githubusercontent.com/six0four/StudentSenseHat/master/images/21.jpg)
-22. Solder the third  pin of each MOSFET only from bottom side.
-![Prototype Assembly](https://raw.githubusercontent.com/six0four/StudentSenseHat/master/images/22.jpg)
-23. Trim the MOSFET leads and make sure that none of them have solder bridges. (Note that the LED has shifted agianst the PCB here.)  
-![Prototype Assembly](https://raw.githubusercontent.com/six0four/StudentSenseHat/master/images/23.jpg)
-24. Make sure the LED is away from the PCB.
-![Prototype Assembly](https://raw.githubusercontent.com/six0four/StudentSenseHat/master/images/24.jpg)
-25. Solder the LED only from the top side, semiconductor devices are heat sensitive.
-![Prototype Assembly](https://raw.githubusercontent.com/six0four/StudentSenseHat/master/images/25.jpg)
-26. Trim the excess LED leads and use for any remaining vias.
-![Prototype Assembly](https://raw.githubusercontent.com/six0four/StudentSenseHat/master/images/26.jpg)
-27. Place sockets.  
-![Prototype Assembly](https://raw.githubusercontent.com/six0four/StudentSenseHat/master/images/27.jpg)
-![Prototype Assembly](https://raw.githubusercontent.com/six0four/StudentSenseHat/master/images/28.jpg)
-28. Solder sockets, no lead trimming is necessary.
-![Prototype Assembly](https://raw.githubusercontent.com/six0four/StudentSenseHat/master/images/29.jpg)
-30. If you soldered the through hole 1kΩ resistor into place then skip past the surface mount resistor steps. Else, if you did not solder the through hole 1kΩ resistor then remove surface mount resistor from its packaging.
-![Prototype Assembly](https://raw.githubusercontent.com/six0four/StudentSenseHat/master/images/04.jpg)
-31. Note that the packaging may look empty from the back.
-![Prototype Assembly](https://raw.githubusercontent.com/six0four/StudentSenseHat/master/images/03.jpg)
-32. Place a little bit of solder onto each of the pads, in this photo there is probably a little bit too much.
-![Prototype Assembly](https://raw.githubusercontent.com/six0four/StudentSenseHat/master/images/31.jpg)
-33. Hold the suface mount resistor with tweezers and heat one end of the resistor with the soldering iron.
-![Prototype Assembly](https://raw.githubusercontent.com/six0four/StudentSenseHat/master/images/33.jpg)
-34. It should now look something like this.
-![Prototype Assembly](https://raw.githubusercontent.com/six0four/StudentSenseHat/master/images/34.jpg)
-35. Heat the other end of the resistor with the soldering iron so that it looks like the next photo.
-![Prototype Assembly](https://raw.githubusercontent.com/six0four/StudentSenseHat/master/images/35.jpg)
-36. Continue to alternate reheating the ends to make it flush with the board.
-![Prototype Assembly](https://raw.githubusercontent.com/six0four/StudentSenseHat/master/images/36.jpg)
-37. While considering surface mount resitors, be aware that the RTC module can charge the CR2032 battery causing damage.
-    To permanently disable the charging circuit, please remove the 200 ohm surface mount resistor (board on left) near the unused I2C header by pushing it off the PCB (board on right) with a hot soldering iron.
-![Prototype Assembly](https://raw.githubusercontent.com/six0four/StudentSenseHat/master/images/32.jpg)
-37. Place the stackable header into place.  
-![Prototype Assembly](https://raw.githubusercontent.com/six0four/StudentSenseHat/master/images/37.jpg)
-38. Solder only where necessary.  
-![Prototype Assembly](https://raw.githubusercontent.com/six0four/StudentSenseHat/master/images/38.jpg)
-39. Place the breakout board modules into their appropriate sockets adding headers as necessary.
-![Prototype Assembly](https://raw.githubusercontent.com/six0four/StudentSenseHat/master/images/39.jpg)
-47. Be sure to clean up your workstation with the brush and dustpan.
-48. Test assembled hat on Vlad's test fixture (and ideally following IPC-A-610 Acceptability of Electronics Assemblies).
-[SenseHatTester](https://github.com/vladporcila/SenseHatTester)  
-![Prototype Assembly](https://raw.githubusercontent.com/six0four/StudentSenseHat/master/images/sensehattester.jpg)
-49. Use [CorelDRAW X6](https://github.com/vladporcila/CorelDrawProjects/blob/master/Rpi%20Base%20plate.cdr) and laser cutter to create a case guide from plab bb.
-50. Tap holes.
-51. Mount device.  
-![Image of Prototype](https://raw.githubusercontent.com/six0four/StudentSenseHat/master/images/corelcase.jpg)
 
-### Student Raspberry Pi Image Creation and Test Code
+## Power Up
+[Sensor is powering up](#https://raw.githubusercontent.com/VinoU/Bar-QR-code-scanners/master/Light%20up.JPG)
 
-1.	Building the Humber image for the Sense Hat: [https://github.com/six0four/StudentSenseHat/blob/master/cribpisdcard.md](https://github.com/six0four/StudentSenseHat/blob/master/cribpisdcard.md)  
-	Note that apt-get puts the installed packages into
-    /var/cache/apt/archives/ so a zip of the files from there would
-    complement the script used by these instructions.
+## Unit Testing
+[](#)
 
-5.  Open a terminal and type:
-	```
-	git clone https://github.com/six0four/StudentSenseHat.git
-	cd StudentSenseHat/firmware
-	gcc -Wall -o traffic2B traffic2B.c -lwiringPi
-	sudo ./traffic2B
-	```
-	write to your blog what happens with your LED.
-	
-6.	From the Start Menu->Preferences->Raspberry Pi Configuration->Interfaces set I2C to Enabled.
 
-7.	Return to your terminal and type:
-    ```Shell
-	make
-	sudo ./ghmain
-	```
-	write to your blog what happens.
-
-8.	You can read the OS date with:
-    ```Shell
-	date
-	```
-	You can set the OS date with:
-	```Shell
-	sudo date –s “29 AUG 1997 13:00:00”
-	```
-	You can write the OS date to the RTC with:
-	```Shell
-	sudo hwclock –w
-	```
-	You can read the RTC date with:
-	```Shell
-	sudo hwclock -r
-	```
-	
-9.	Things to consider for your particular application: boot options (Gui to terminal), and permissions when auto mounting usb keys.
-	
-10.  Use <http://sourceforge.net/projects/win32diskimager/> to read the image
-    into a file.
-
-### Enterprise Wi-Fi
-
-Connecting to Enterprise Wi-Fi can be a challenge but the graphical desktop has come a long way from where it was, please share your respective successes in situations where the GUIs do not work - here is my configuration:
-
-1.  In /etc/network/interfaces:
-	```
-	auto lo
-	iface lo inet loopback
-	iface eth0 inet dhcp
-	allow-hotplug wlan0
-	iface wlan0 inet manual
-	wpa-roam /etc/wpa_supplicant/wpa_supplicant.conf
-	iface default inet dhcp
-	```
-
-2.  In /etc/wpa_supplicant/wpa_supplicant.conf:
-	```
-	ctrl_interface=DIR=/var/run/wpa_supplicant GROUP=netdev
-	update_config=1
-	network={
-        ssid="myWi-Fi@Humber"
-        proto=RSN
-        key_mgmt=WPA-EAP
-        pairwise=CCMP
-        auth_alg=OPEN
-        eap=PEAP
-        identity="n12345678"
-        password="aaaAAA12"
-        phase2="auth=MSCHAPV2"
-	}
-	```
-
-	I have been told that more recently the Prototype Lab staff have said to use:
-	```
-	sudo nano /etc/wpa_supplicant/wpa_supplicant.conf
-	```
-
-	Add the follow to file and fill in identity and password field save and restart RPI:
-	```
-	network={
-	ssid="myWi-Fi@Humber"
-	priority=999
-	proto=RSN
-	key_mgmt=WPA-EAP
-	pairwise=CCMP
-	auth_alg=OPEN
-	eap=PEAP
-	identity="STUDENT ID"
-	password="PASSWORD"
-	phase1="peaplabel=0"
-	phase2="auth=MSCHAPV2"
-	}
-	```
-	
-3.  Download Humber Certificate (For HumberSecure).cer from https://its.humber.ca/wireless/humbersecure/
-
-4.  Reboot
+## Production Testing
+[](#)
