@@ -57,7 +57,7 @@ I soldered PCB board to add more senors.
 
 
 ## Power Up
-[Sensor is powering up](https://raw.githubusercontent.com/VinoU/Bar-QR-code-scanners/master/Light%20up.JPG)
+![Sensor is powering up](https://raw.githubusercontent.com/VinoU/Bar-QR-code-scanners/master/Light%20up.JPG)
 
 ## Unit Testing
 [](#)
