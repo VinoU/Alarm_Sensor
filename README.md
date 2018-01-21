@@ -36,7 +36,7 @@ In E-money transfer, I am using relay module as my sensor. I’m using this sens
 
 
 ## Bill of Materials/Budget
-![Budget for my Porject](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Parts%20Budget%20Vino%20Uthayakumar%20-%20new.xlsx)
+[Budget for my Porject](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Parts%20Budget%20Vino%20Uthayakumar%20-%20new.xlsx)
 ![Budget](https://raw.githubusercontent.com/VinoU/Bar-QR-code-scanners/master/BUDGET.png)
 
 
