@@ -12,7 +12,7 @@
 8. [Unit Testing](#unit-testing)
 9. [Production Testing] (#production-testing)
 
-![Image of Prototype](https://raw.githubusercontent.com/VinoU/Bar-QR-code-scanners/master/Final%20Image.JPG)
+![Image of Prototype](https://raw.githubusercontent.com/VinoU/Bar-QR-code-scanners/master/Final%20Scrren.png)
 
 
 ### Correct web template usage
