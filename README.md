@@ -12,7 +12,7 @@
 8. [Unit Testing](#unit-testing)
 9. [Production Testing] (#production-testing)
 
-![Image of Prototype](#https://raw.githubusercontent.com/VinoU/Bar-QR-code-scanners/master/Final%20Image.JPG)
+![Image of Prototype](https://raw.githubusercontent.com/VinoU/Bar-QR-code-scanners/master/Final%20Image.JPG)
 
 
 ### Correct web template usage
@@ -24,7 +24,7 @@ In the Beginning, I had created the repository for this project to uplaod all my
 3. With power light and signal output indicator.
 4. A 3-pin anti-reverse cable included.
 
-![Kit Bag](#https://raw.githubusercontent.com/VinoU/Bar-QR-code-scanners/master/Pictures/IMG_3096.JPG) 
+![Kit Bag](https://raw.githubusercontent.com/VinoU/Bar-QR-code-scanners/master/Pictures/IMG_3096.JPG) 
 
 For a list of materials please download the [Excel]() file in the repository.
 
@@ -32,7 +32,7 @@ For a list of materials please download the [Excel]() file in the repository.
 
 In E-money transfer, I am using relay module as my sensor. I’m using this sensor for security purposes. I am going to connect my relay module to raspberry pi3 and I also have a buzzer which is used to indicate the output of the relay module. The relay module will detect if the payment has done or not with the barcode created by my app from software. Once it detects that product has been stolen then the buzzer will go off indicating that the transaction has not been made. By this way we can prevent scamming.
 
-![System Diagram](#https://raw.githubusercontent.com/VinoU/Bar-QR-code-scanners/master/System%20Diagram.png)
+![System Diagram](https://raw.githubusercontent.com/VinoU/Bar-QR-code-scanners/master/System%20Diagram.png)
 
 
 ## Bill of Materials/Budget
@@ -52,12 +52,12 @@ My Relay module sensor was acting like an alarm. TO built this, I was required r
 ## PCB / Soldering
 I soldered PCB board to add more senors.
 
-![PCB](#https://raw.githubusercontent.com/VinoU/Bar-QR-code-scanners/master/Pictures/IMG_3089.JPG)
-![Sensors on PCB](#https://raw.githubusercontent.com/VinoU/Bar-QR-code-scanners/master/Sensors%20ON%20PCB.jpg)
+![PCB](https://raw.githubusercontent.com/VinoU/Bar-QR-code-scanners/master/Pictures/IMG_3089.JPG)
+![Sensors on PCB](https://raw.githubusercontent.com/VinoU/Bar-QR-code-scanners/master/Sensors%20ON%20PCB.jpg)
 
 
 ## Power Up
-[Sensor is powering up](#https://raw.githubusercontent.com/VinoU/Bar-QR-code-scanners/master/Light%20up.JPG)
+[Sensor is powering up](https://raw.githubusercontent.com/VinoU/Bar-QR-code-scanners/master/Light%20up.JPG)
 
 ## Unit Testing
 [](#)
