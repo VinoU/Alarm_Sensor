@@ -8,9 +8,9 @@
 4. [Time Commitment](#time-commitment)
 5. [Mechanical Assembly](#mechanical-assembly)
 6. [PCB / Soldering](#pcb-soldering)
-7. [Power Up] (#power-up)
+7. [Power Up](#power-up)
 8. [Unit Testing](#unit-testing)
-9. [Production Testing] (#production-testing)
+9. [Production Testing](#production-testing)
 
 ![Image of Prototype](https://raw.githubusercontent.com/VinoU/Bar-QR-code-scanners/master/Final%20Scrren.png)
 
