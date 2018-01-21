@@ -42,7 +42,7 @@ In E-money transfer, I am using relay module as my sensor. I’m using this sens
 
 ## Time Commitment
 [Schaudle](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Vino%20Uthayakumar_Project%20Schedule.pdf)
-![Schcdule]()
+![Schcdule](https://raw.githubusercontent.com/VinoU/Bar-QR-code-scanners/master/schedule.png)
 Normally, To built this Project it will take about a week but however It took me about two weeks complated everything fully. First,For parts arrival from amazon and It took me aboutt wo days. Between that time I was getting knownlage about my parts from []. To Mechanical Assembly. Secondly, I have spend about a day to assembled everything together. Because I was Working Software requriment and also builting PC Board, so that took me another two days.Thirdly, To make my sesnor work I have to write program and then that took my two days. I have worte thr program in Python. Finally, I have made my sensor connected to pi3. SO It was almost two weeks to complate entire project with all the spefication and requriment from Instructor.
 
 ## Mechanical Assembly
