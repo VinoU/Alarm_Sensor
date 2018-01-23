@@ -12,6 +12,8 @@
 8. [Unit Testing](#unit-testing)
 9. [Production Testing](#production-testing)
 
+[Refernace Links](https://www.sunfounder.com/learn/sensor-kit-v2-0-for-raspberry-pi-b-plus/lesson-4-relay-module-sensor-kit-v2-0-for-b-plus.html)
+
 ![Image of Prototype](https://raw.githubusercontent.com/VinoU/Bar-QR-code-scanners/master/Final%20Scrren.png)
 
 
