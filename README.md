@@ -57,7 +57,7 @@ Normally, To built this Project It will take about a week but however It took me
 ## Mechanical Assembly
 
 My Relay module sensor was acting like an alarm. To build this, I was required raspberry platform and also a buzzer that indicate that output from relay. First, I  have installed raspbian OS on rasbperry pi3, so I am able to run the program to connect my module over the pi3. Secondly, I was connecting my Relay module to rapsberry, I connect the signal from relay module to GIO pin in Pi3. Secondly, I have to supply the power to my relay module so I was connecting 3.3v volatage pin in raspberry pi to the VCC in module (I AM PROVIDING 3.3V TO MY REALY MODULE BECAUSE IT IS A LOW LEVEL MODULE, THERE IS A HIGH LEVEL MODULE AND IT REQURIE 5V VCC PLEASE BE AWARE). And then I was connecting a ground pin in pi3 to module ground, so now I was able to make a connection from my relay module and pi3. Finally, I was connecting my buzzer to my relay and I connected the ground from buzzer to pi3 ground pin, and the signal from buzzer It connected to the relay module output, and then I provided 5V to the buzzer from raspberry pi3 pin and it started working as an alarm when I execute the python program.
- [PYTHON Program]()
+ [PYTHON Program](https://raw.githubusercontent.com/VinoU/Bar-QR-code-scanners/master/code/relay.py)
  
 ## PCB Soldering
 
