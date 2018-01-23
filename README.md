@@ -40,6 +40,10 @@ In E-money transfer, I am using relay module as my sensor. I’m using this sens
 [Budget for my Porject](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Parts%20Budget%20Vino%20Uthayakumar%20-%20new.xlsx)
 ![Budget](https://raw.githubusercontent.com/VinoU/Bar-QR-code-scanners/master/BUDGET.png)
 
+[RELAY - BUY HERE](https://www.amazon.ca/gp/product/B013GAGFOU/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1)
+[Raspberry pi3 - BUY HERE](https://www.amazon.ca/gp/product/B01CCF6V3A/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1)
+
+
 
 ## Time Commitment
 
