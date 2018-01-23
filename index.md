@@ -14,14 +14,27 @@
 8. [December 11, 2017 - Week 8](#pla-card)
 9. [December 18, 2017 - Week 9](#video)
 10. [January 08, 2018 - Week 10](#report)
-11. [January 15, 2018 - Week 11](#Presentation)
+11. [January 15, 2018 - Week 11](#presentation)
+12. [January 22, 2018 - Week 12](#built-instrucation)
 
 ------------
-## January 15, 2018 - Week 10
+
+## January 12, 2018 - Week 12
+## Built Instrucation
+
+Here is my Built Instruation For my Project Please feel free to Clone it :)
+[Built Instruaction](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/README.md)
+
+-------------
+
+## January 15, 2018 - Week 11
 ## Presentation
+
 Today is my Final Presenation 
 
+[Presentation](https://github.com/VinoU/Bar-QR-code-scanners/blob/master/Presentation%20PowerPoint/Vino%20Uthayakumar%20Presentation.pptx)
 
+-------------
 
 ## January 08, 2018 - Week 10
 ## report
