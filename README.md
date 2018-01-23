@@ -65,8 +65,34 @@ I soldered PCB board to add more senors.
 ![Sensor is powering up](https://raw.githubusercontent.com/VinoU/Bar-QR-code-scanners/master/Light%20up.JPG)
 
 ## Unit Testing
-[](#)
 
+![Sample](https://raw.githubusercontent.com/VinoU/Bar-QR-code-scanners/master/relayew.png)
+
+Connect the base electrode of the transistor to GPIO0. When we make GPIO0 output high level (3.3V) by programming, the transistor will conduct because of current saturation. The normally open contact of the relay will be closed, while the normally closed contact of the relay will be broken; when we make it output low level (0V), the transistor will be cut off, and the relay will recover to initial state. The schematic diagram of the module is as shown below:
 
 ## Production Testing
-[](#)
+
+![Testing Diagram](https://raw.githubusercontent.com/VinoU/Bar-QR-code-scanners/master/Sample.png)
+
+[Python Code](https://raw.githubusercontent.com/VinoU/Bar-QR-code-scanners/master/relay.py)
+[C Code](https://raw.githubusercontent.com/VinoU/Bar-QR-code-scanners/master/relay.c)
+
+![Code](https://raw.githubusercontent.com/VinoU/Bar-QR-code-scanners/master/code.png)
+![](https://raw.githubusercontent.com/VinoU/Bar-QR-code-scanners/master/c%20code.png)
+
+For Python users:
+Step: Run
+sudo python relay.py
+
+
+For C user:
+Step 1: Compile
+gcc relay.c –lwiringPi
+Step 2: Run
+sudo ./a.out
+
+you may hear the ticktock. That's the normally closed contact opened and the normally open contact closed. I attached the buzzer so it can make noise like alarm.
+
+
+                              ** Thank you **
+ 
